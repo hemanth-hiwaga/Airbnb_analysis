@@ -59,7 +59,7 @@ This case study delves into the analysis of an Airbnb dataset, aiming to uncover
   - A positive correlation between price and beds.
   - Other variables, like latitude and longitude, had weaker correlations with price, indicating less direct influence.
 
-![](/images/07.png)
+![](/images/08.png)
 
 ---
 
